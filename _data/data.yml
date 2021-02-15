@@ -53,7 +53,7 @@ education:
       university: POSTECH
       time: 2022.02 - present
      
-    - degree: BS in MSE & EEE
+    - degree: BS in NME & EEE
       university: Chung-Ang University
       time: 2015.03 - 2021.02
       
@@ -101,9 +101,17 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
+    toolset:
+      - name: Analog circuit design
+        level: 60%
+    
+    toolset:
+      - name: C-programming
+        level: 50%
+    
+    toolset:
+      - name: Verilog
+        level: 50%
 
 
 
