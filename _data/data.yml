@@ -104,12 +104,13 @@ skills:
     toolset:
       - name: Analog circuit design
         level: 60%
-    
-    toolset:
+     
+      - name: Ruby on Rails
+        level: 70%
+ 
       - name: C-programming
-        level: 50%
-    
-    toolset:
+        level: 60%
+
       - name: Verilog
         level: 50%
 
